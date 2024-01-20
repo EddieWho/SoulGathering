@@ -2,3 +2,6 @@ minima:
   skin: dark
 theme: minima
 description: Here lies a future mind.
+header_pages:
+  - about.md
+  - portfolio.md
