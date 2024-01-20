@@ -1,6 +1,9 @@
 theme: minima
 
-description: Here lies a future mind.
+title: Welcome, Traveller.
+author: 
+  name: Eddy
+  email: yineddy@qq.com
 
 minima:
   skin: solarized-light
