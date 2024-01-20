@@ -1,3 +1,3 @@
 ---
-title: Welcome, Traveller.
+layout: home
 ---
