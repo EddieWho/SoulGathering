@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "L"
-permalink: /about/abc
+permalink: /about
 ---
 
 LLLLL!
