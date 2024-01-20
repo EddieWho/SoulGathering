@@ -1,6 +1,11 @@
-minima:
-  skin: dark
 theme: minima
+
 description: Here lies a future mind.
+
+minima:
+  skin: solarized-light
+
+shouw_excerpts: true
+
 header_pages:
   - about.md
