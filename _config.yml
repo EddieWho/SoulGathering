@@ -1,10 +1,9 @@
-theme: minima
-
 title: Welcome, Traveller.
-
-author: 
+author:
   name: Eddy
   email: yineddy@qq.com
+
+theme: minima
 
 minima:
   skin: solarized-light
