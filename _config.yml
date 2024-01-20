@@ -10,8 +10,7 @@ description: >
 
 theme: minima
 
-minima:
-  skin: solarized-light
+skin: solarized-light
 
 show_excerpts: true
 
